@@ -1,6 +1,11 @@
 # us-map-charts
 ![Electoral-Votes](https://github.com/easai/us-map-charts/blob/main/images/Electoral-Votes.png)
 ![Electoral-Votes-Northeastern](https://github.com/easai/us-map-charts/blob/main/images/Electoral-Votes-Northeastern.png)
+### Installation
+Run the following command to install all the dependencies.
+```bash
+poetry install
+```
 ### Usage
 This map shows all U.S. states and the number of electors.
 ```bash
