@@ -3,8 +3,8 @@ import pandas as pd
 
 # Sample DataFrame for northeastern states
 data = {
-    'state': ['NY', 'NJ', 'PA', 'CT', 'MA', 'RI', 'VT', 'NH', 'ME'],
-    'electoral_votes': [28, 14, 19, 7, 11, 4, 3, 4, 4]
+    'state': ['NY', 'NJ', 'PA', 'CT', 'MA', 'RI', 'VT', 'NH', 'ME', 'DC','MD','DE'],
+    'electoral_votes': [28, 14, 19, 7, 11, 4, 3, 4, 4, 3, 10, 3]
 }
 df_northeast = pd.DataFrame(data)
 
